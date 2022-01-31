@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Hi, I'm Gabriel</h1>
+<p>I'm finishing my bachelor this year and looking for a web or mobile job. I'm currently working as a React Native developer.</p>
 
 <!--
 **gabeabreu/Gabeabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
