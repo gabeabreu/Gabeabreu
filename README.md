@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/84470114/151730209-27e1ff55-b973-4daa-9203-ff1665acf680.png">
 <h1>Hi, I'm Gabriel</h1>
 <p>I'm finishing my bachelor this year and looking for a web or mobile job. I'm currently working as a React Native developer.</p>
 
